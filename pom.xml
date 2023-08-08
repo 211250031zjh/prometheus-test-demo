@@ -8,10 +8,10 @@
         <version>2.1.13.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>io.daocloud</groupId>
-    <artifactId>prometheus-test-demo</artifactId>
+    <groupId>com.example</groupId>
+    <artifactId>cloudNative</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>prometheus-test-demo</name>
+    <name>CloudNativeApplication</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
